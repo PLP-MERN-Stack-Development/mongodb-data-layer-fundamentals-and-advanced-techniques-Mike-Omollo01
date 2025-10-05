@@ -111,26 +111,6 @@ const books = [
     in_stock: true,
     pages: 197,
     publisher: 'HarperOne'
-  },
-  {
-    title: 'Moby Dick',
-    author: 'Herman Melville',
-    genre: 'Adventure',
-    published_year: 1851,
-    price: 12.50,
-    in_stock: false,
-    pages: 635,
-    publisher: 'Harper & Brothers'
-  },
-  {
-    title: 'Wuthering Heights',
-    author: 'Emily Brontë',
-    genre: 'Gothic Fiction',
-    published_year: 1847,
-    price: 9.99,
-    in_stock: true,
-    pages: 342,
-    publisher: 'Thomas Cautley Newby'
   }
 ];
 
